@@ -1,0 +1,8 @@
+name: More_Craft
+version: 1.0
+main: me.MnMaxon.MoreCraft.Main
+commands:
+   Name:
+      description: Gives the name of the item you are holding
+   MCReload:
+      description: Reloads the config
